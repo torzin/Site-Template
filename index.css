@@ -27,8 +27,9 @@ main {
 .accordion-body {
   color: white !important;
 }
-@media screen and (max-width: 600px) {
-  .cards {
-    display: none !important;
+@media screen and (max-width: 1000px) {
+  #cards {
+    flex-direction: column !important;
+    align-items: center !important;
   }
 }
