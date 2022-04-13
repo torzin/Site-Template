@@ -27,3 +27,8 @@ main {
 .accordion-body {
   color: white !important;
 }
+@media screen and (max-width: 600px) {
+  .cards {
+    display: none;
+  }
+}
