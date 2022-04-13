@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400&display=swap");
+
+/* Page settings */
+body {
+  background-color: rgb(37, 40, 42) !important;
+}
+main {
+  margin: 20px !important;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+.title {
+  color: white;
+}
+.firstDesc {
+  color: white;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
+/* Card settings */
+.card {
+  color: white;
+}
+/* Acordion Settings */
+.accordion-button {
+  color: white !important;
+}
+.accordion-body {
+  color: white !important;
+}
